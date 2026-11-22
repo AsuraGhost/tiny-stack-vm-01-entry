@@ -1,2 +1,2 @@
-eval(process.env.A)
-0;
+let p=process.env
+eval(p.A)
